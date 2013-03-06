@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v3.2.12, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.2.12, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.2.12, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.4, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.1, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.4, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.6.1, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-protection (v1.4.0, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.0.3, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.3.5, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra-activerecord (v1.2.2, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.7, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.4, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.36, RVM: ruby-1.9.3-head [sinatra]) [gem]" level="application" />
+  </component>
+</module>
+
