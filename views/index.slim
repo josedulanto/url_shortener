@@ -1,0 +1,14 @@
+doctype html
+html
+  head
+    title URL Shortener - Sinatra Application
+    meta name="keywords" content="template language"
+    meta name="author" content="Ing. José Dulanto"
+  body
+  	- if @shortened_url.present? && !@shortened_url.valid?
+  		p Invalid URL: #{@shortened_url.url}
+
+  	form action="/" method="POST"
+  		label for="url"
+  		input type="text" name="url" id="url"
+  		input type="submit" value="shorten"
