@@ -1,1 +1,1 @@
-A simple URL shortener in Ruby
+A simple URL shortener with Ruby, Sinatra and Redis

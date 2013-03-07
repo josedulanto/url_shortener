@@ -1,3 +1,6 @@
-gem 'sinatra-activerecord'
-gem 'sqlite3'
+# gem 'sinatra-activerecord'
+# gem 'sqlite3'
 gem 'rake'
+gem 'slim'
+# gem 'alphadecimal'
+gem 'redis'
